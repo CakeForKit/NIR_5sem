@@ -1,0 +1,122 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "report.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+            {
+                "bookmarkNumber": 1,
+                "fileName": "../../aa/report_template (2)/settings.tex",
+                "lineNumber": 86,
+                "text": "settings.tex\n"
+            },
+            {
+                "bookmarkNumber": 1,
+                "fileName": "../../aa/ped22u691/lab_2/doc/tech_part.tex",
+                "lineNumber": 289,
+                "text": "tech_part.tex\n\\begin{table}[h]"
+            },
+            {
+                "bookmarkNumber": 1,
+                "fileName": "../../cg_cp_info/report/lib.bib",
+                "lineNumber": 8,
+                "text": "lib.bib\n@book{rodgersCG,"
+            }
+        ],
+        "CurrentFile": "report.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 19,
+                "EditorGroup": 0,
+                "FileName": "report.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 14
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "01_referat.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "02_intro.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "03_analytic_part.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "04_design_part.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "07_conclusion.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "08_additions.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 66,
+                "EditorGroup": 0,
+                "FileName": "lib.bib",
+                "FirstLine": 70,
+                "FoldedLines": "",
+                "Line": 74
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "links.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "mypreambula.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 64,
+                "EditorGroup": 0,
+                "FileName": "preambula.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 5
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}
